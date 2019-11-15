@@ -8,6 +8,7 @@
 ### 2020
 - [Women in CyberSecurity](https://www.wicys.org/conference) - March 12 - 14
 - [Devopsdays Denver](https://devopsdays.org/events/2020-denver/welcome/) - April 26 - 28
+- [DVLP DNVR](https://developdenver.org) - August 13 - 14
 - [ElixirConf](https://elixirconf.com/) - September 1 - 4
 - [Denver Startup Week](https://www.denverstartupweek.org/) - September 14-18
 
