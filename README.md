@@ -8,6 +8,7 @@
 ### 2020
 - [Women in CyberSecurity](https://www.wicys.org/conference) - March 12 - 14
 - [Devopsdays Denver](https://devopsdays.org/events/2020-denver/welcome/) - April 26 - 28
+- [Boulder Startup Week](https://boulderstartupweek.com/) May 11-15th, 2020
 - [DVLP DNVR](https://developdenver.org) - August 13 - 14
 - [ElixirConf](https://elixirconf.com/) - September 1 - 4
 - [Denver Startup Week](https://www.denverstartupweek.org/) - September 14-18
@@ -15,7 +16,9 @@
 
 ### 2019
 - [Women in CyberSecurity](https://www.wicys.org/conference) March
+- [traversalconf](https://traversalconf.com/) March 7 - 9
 - [Devopsdays Denver](https://devopsdays.org/events/2019-denver/welcome/) April 29 - 30
+- [Boulder Startup Week](https://boulderstartupweek.com/) May 13 - 17
 - [DinosaurJS](https://www.dinosaurjs.org/) June 20 - 21
 - [360anDev](http://360andev.com/) July 18 - 19
 - ~[GotherCon](https://www.gophercon.com/)~ moved to San Diego? July 24 - 27
