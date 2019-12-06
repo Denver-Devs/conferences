@@ -12,8 +12,7 @@
 - [Boulder Startup Week](https://boulderstartupweek.com/) May 11-15th, 2020
 - [DVLP DNVR](https://developdenver.org) - August 13 - 14
 - [ElixirConf](https://elixirconf.com/) - September 1 - 4
-- [Denver Startup Week](https://www.denverstartupweek.org/) - September 14-18
-
+- [Denver Startup Week](https://www.denverstartupweek.org/) - September 14 - 18
 
 ### 2019
 - [Women in CyberSecurity](https://www.wicys.org/conference) March
@@ -26,7 +25,8 @@
 - [DVLP DNVR](https://developdenver.org/) August 15 - 16
 - [360iDev](https://360idev.com/) August 25 - 28
 - [ElixirConf](https://elixirconf.com/2019) August 27 - 30
-- [Denver Startup Week](https://www.denverstartupweek.org/) October
+- [Denver Startup Week](https://www.denverstartupweek.org/) September 16 - 20
+- [Denver Freelance Business Week](https://freelancebusinessweek.com/denver/) September 30 - October 4
 - [Denver Dev Day](https://denverdevday.github.io/nov-2019/) November 22
 
 ## Criteria
