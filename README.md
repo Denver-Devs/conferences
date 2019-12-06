@@ -40,6 +40,8 @@
 
 Please contribute! Add to the list by submitting a Pull Request! Suggest an improvement by raising an Issue!
 
+Thanks to contributers: @kylecoberly @tomwhartung
+
 ## Roadmap
 
 - [x] v1.0: create a static list of resources. maybe in the README of a github repo?
