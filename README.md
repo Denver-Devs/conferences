@@ -11,8 +11,6 @@
 - [DVLP DNVR](https://developdenver.org) - August 13 - 14
 - [ElixirConf](https://elixirconf.com/) - September 1 - 4
 - [Denver Startup Week](https://www.denverstartupweek.org/) - September 14 - 18
-- [Denver Freelance Business Week](https://freelancebusinessweek.com/denver/) Fall
-
 
 ### 2019
 - [Women in CyberSecurity](https://www.wicys.org/conference) March
