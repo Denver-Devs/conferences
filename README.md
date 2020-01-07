@@ -11,8 +11,10 @@
 - [Devopsdays Denver](https://devopsdays.org/events/2020-denver/welcome/) - April 26 - 28
 - [Boulder Startup Week](https://boulderstartupweek.com/) May 11-15th, 2020
 - [DVLP DNVR](https://developdenver.org) - August 13 - 14
+- [360iDev](https://360idev.com/) August 16 - 19
 - [ElixirConf](https://elixirconf.com/) - September 1 - 4
 - [Denver Startup Week](https://www.denverstartupweek.org/) - September 14 - 18
+- [UX STRAT](https://uxstrat.com/usa/) - September 14 - 16
 
 ### 2019
 - [Women in CyberSecurity](https://www.wicys.org/conference) March
