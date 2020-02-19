@@ -7,7 +7,7 @@
 
 ### 2020
 - [Angular Colorado](https://angularcolorado.com/) - January 30
-- [World AI Day](https://www.worldiaday.org/events/denver/2020) - February 22
+- [World IA Day](https://www.worldiaday.org/events/denver/2020) - February 22
 - [Women in CyberSecurity](https://www.wicys.org/conference) - March 12 - 14
 - [Devopsdays Denver](https://devopsdays.org/events/2020-denver/welcome/) - April 26 - 28
 - [Boulder Startup Week](https://boulderstartupweek.com/) May 11-15th, 2020
